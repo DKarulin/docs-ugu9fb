@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xynogi.kujang138btc.space/sitemap.xml
